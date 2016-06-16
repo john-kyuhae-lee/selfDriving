@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/john.lee/project/selfDriving/Application/build/intermediates/res/merged/debug/layout-land/fragment_camera2_basic.xml",
+        "source": "/Users/john.lee/project/selfDriving/Application/src/main/res/layout-land/fragment_camera2_basic.xml"
+    },
+    {
+        "merged": "/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-land/fragment_camera2_basic.xml",
+        "source": "/Users/john.lee/project/android-Camera2Basic/Application/src/main/res/layout-land/fragment_camera2_basic.xml"
+    }
+]

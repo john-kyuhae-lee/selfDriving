@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_05e8c79bbfc1139ef0b7157b10eb395b636b1049.jar" />
+    </item>
+    <item
+        jar="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_9dd504f836a4c27560c54fd9c684def7e9d9585a.jar" />
+    </item>
+    <item
+        jar="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_c56e53c8a74278a3f57ba4ae4fed27c4e06d6787.jar" />
+    </item>
+    <item
+        jar="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.3.0_8aa849114fb46d8b934bd8a250fc8fede70ac404.jar" />
+    </item>
+    <item
+        jar="/Users/john.lee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_01716b6e578d3fc4c8f25b6dae5b6b0e9d096dc3.jar" />
+    </item>
+    <item
+        jar="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_998495d857f179725a59bc0f0a98d07eabc69127.jar" />
+    </item>
+    <item
+        jar="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/john.lee/project/android-Camera2Basic/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_447668389c50009b3f26e8ca2b674fb94e8d20f5.jar" />
+    </item>
+
+</items>
